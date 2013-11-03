@@ -1,9 +1,3 @@
 # Decluttering
 
-
-## Inbox
-I wish I could sort my inbox by distribution, i.e. by who sends me the most mail.
-
-Longreads: 14
-Quora: 19
-Brain Pickings: 24
+<iframe width='600' height='500' frameborder='0' src='https://docs.google.com/spreadsheet/pub?key=0AgWsZbUbeErrdElIM0Z5UTBwSHNYa0c0ckRXdWRiSVE&single=true&gid=1&output=html&range=A1:Z100'></iframe>
